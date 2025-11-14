@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.github.eboubaker.domiscore">
     <application
-        android:label="domino_score"
+        android:label="DomiScore"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
